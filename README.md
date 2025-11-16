@@ -1,268 +1,180 @@
-# Hi there, I'm Sanjeev Preetam Karri 👋
-
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-karri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karrisanjeevpreetam@gmail.com)
-[![Location](https://img.shields.io/badge/Chicago,_IL-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
+
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sanjeev%20Preetam%20K&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst&descAlignY=60&descSize=20" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Data%20Analyst;Data%20Analyst%20with%204%2B%20years%20architecting%20ML%20models%20%26%20analytics%20workflows%20%7C%20Python%2C%20SQL%2C%20AWS%2C%20PowerBI%20%7C%20%0D%0ACredit%20Risk%20%E2%80%A2%20Churn%20Prediction%20%E2%80%A2%20Financial%20Analytics%20%7C%20;Building+the+future+through+code+✨;Always+learning%2C+always+growing+🚀" alt="Typing SVG" />
 
 </div>
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-Data Analyst with **4+ years** of experience architecting end-to-end data solutions, developing advanced machine learning models, and orchestrating scalable analytics workflows. Currently leveraging **Python, SQL, AWS, and PowerBI** to drive business intelligence and financial insights.
+<img align="right" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
 
-- 🔭 Currently working on **Credit Risk Modeling** and **Customer Analytics**
-- 🌱 Specializing in **ETL Pipelines**, **Predictive Analytics**, and **Financial Data Engineering**
-- 💼 Experience at **JPMorgan Chase & Co**, **Hexaware Technologies**, and **Mphasis**
-- 🎓 MS in Information Technology & Management from **University of Wisconsin-Milwaukee**
-- 📊 Building scalable ML solutions using **PyTorch**, **TensorFlow**, and **Scikit-learn**
-- 📍 Based in **Chicago, Illinois**
+Data Analyst with 4+ years architecting ML models & analytics workflows | Python, SQL, AWS, PowerBI | 
+Credit Risk • Churn Prediction • Financial Analytics | 
 
----
+Currently working as **Data Analyst** at **JPMorgan Chase & Co**, where I focus on •	Engineered automated Python- and SQL-based pipelines aggregating transactional and client datasets...
 
-## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=premiumzucchini.premiumzucchini" />
+</div>
 
-### **Languages & Data Analysis**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E40AF?style=for-the-badge&logo=sas&logoColor=white)
-
-### **Machine Learning & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### **Data Engineering & Big Data**
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
-### **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### **Data Visualization & BI**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-### **MLOps & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Featured Projects
-
-### 🔷 [Data Pipeline with DBT using Airflow on GCP](https://github.com/premiumzucchini/data-pipeline-with-dbt-using-airflow-on-gcp)
-**Portfolio project showcasing development capabilities**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
-
-- Engineered automated ETL pipelines using Apache Airflow orchestration
-- Implemented data transformation workflows with DBT on Google Cloud Platform
-- Built scalable data infrastructure for real-time analytics processing
-- **Key Achievement**: Reduced data processing time and improved pipeline reliability
-
----
-
-### 💳 [Customer Churn Prediction](https://github.com/premiumzucchini/customer-churn-prediction)
-**Hands-on learning experience with modern ML frameworks**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ML](https://img.shields.io/badge/-Machine_Learning-FF6B6B?style=flat-square)
-
-- Developed predictive churn models using logistic regression and decision trees
-- Achieved **85% prediction accuracy** for identifying at-risk customers
-- Implemented feature engineering and hyperparameter tuning techniques
-- Applied SMOTE for handling imbalanced datasets
-- **Business Impact**: Enabled targeted retention programs improving customer retention by 10%
-
----
-
-### 👤 [Face Recognition System](https://github.com/premiumzucchini/face_recognition)
-**Comprehensive project exploring software design patterns**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=flat-square)
-
-- Built a face recognition system using deep learning and computer vision techniques
-- Implemented CNN architectures for facial feature extraction
-- Applied transfer learning with pre-trained models
-- Optimized model performance for real-time inference
-- **MIT Licensed**: Open-source contribution to the ML community
-
----
-
-### 📈 [Customer Trends Data Analysis - SQL, Python, PowerBI](https://github.com/premiumzucchini/customer-trends-data-analysis-sql-python-powerbi)
-**Comprehensive project exploring software design patterns**
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-- Analyzed customer behavior patterns using SQL queries and Python analytics
-- Created interactive PowerBI dashboards for executive reporting
-- Performed exploratory data analysis (EDA) and statistical inference
-- Identified key trends driving customer engagement and revenue
-- **Key Deliverable**: Real-time KPI tracking dashboard for stakeholders
-
----
-
-### 📊 [Dashboards Development using Tableau and PowerBI](https://github.com/premiumzucchini/dashboards-development-using-tableau-and-powerbi)
-**Hands-on learning experience with modern BI frameworks**
-
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Data Visualization](https://img.shields.io/badge/-Data_Viz-4ECDC4?style=flat-square)
-
-- Designed and developed interactive business intelligence dashboards
-- Implemented DAX measures and calculated columns for advanced analytics
-- Created compelling data visualizations for financial and operational metrics
-- Built automated reporting systems reducing manual effort by 25+ hours weekly
-- **Tools Used**: Tableau Desktop, Power BI Desktop, Power Query, DAX
-
----
-
-## 💼 Professional Experience Highlights
-
-### **JPMorgan Chase & Co** | Data Analyst | Dec 2024 - Present
-- 🎯 Improved credit risk prediction accuracy by **18%** using scikit-learn and PyTorch
-- ⚡ Reduced data processing latency by **22%** through AWS Lambda and PySpark optimization
-- 📊 Increased profitability by **10%** via interactive Tableau portfolio dashboards
-- 🚀 Enhanced approval efficiency by **15%** through statistical inference and EDA
-
-### **Hexaware Technologies** | Data Analyst | Nov 2021 - Jul 2023
-- 🔄 Designed end-to-end ETL pipelines reducing manual cleansing by **40%**
-- 📈 Achieved **85% accuracy** in predictive churn models using ML algorithms
-- ⏱️ Saved **25 weekly analyst hours** through Power BI automation
-- 💰 Generated **$150K annual savings** through data-driven optimization
-
-### **Mphasis** | Business Analyst | Jul 2020 - Sep 2021
-- 📊 Built automated SQL reporting systems improving accuracy by **35%**
-- 💼 Identified compliance anomalies generating **$250K+ client savings**
-- 🎓 Trained 20+ analysts on governance standards, reducing onboarding by **40%**
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premiumzucchini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=premiumzucchini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premiumzucchini&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premiumzucchini&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=premiumzucchini&theme=radical" alt="GitHub Streak" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=premiumzucchini&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=premiumzucchini&theme=react-dark&hide_border=true" />
+</div>
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Programming Languages
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
+  <img src="https://skillicons.dev/icons?i=jupyternotebook" height="40" alt="Jupyter Notebook logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
+</div>
+
+### Frameworks & Tools
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="Pandas logo" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="NumPy logo" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40" alt="Scikit-learn logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="TensorFlow logo" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch logo" />
+  <img src="https://skillicons.dev/icons?i=keras" height="40" alt="Keras logo" />
+</div>
 
 </div>
 
----
-
-## 🏆 Certifications & Education
-
-### **Education**
-- 🎓 **MS in Information Technology and Management** - University of Wisconsin-Milwaukee (May 2025)
-- 📜 **Graduate Certificate in Business Analytics** - UW Milwaukee (May 2025)
-
-### **Expertise Areas**
-- **Machine Learning**: Classification, Clustering, Regression, Feature Engineering, Model Evaluation
-- **Deep Learning**: Neural Networks, CNNs, RNNs, Transfer Learning, PyTorch, TensorFlow
-- **Natural Language Processing**: Text Analytics, Sentiment Analysis, NLP Pipelines
-- **Computer Vision**: Image Classification, Object Detection, Facial Recognition
-- **Data Engineering**: ETL Design, Data Warehousing, Pipeline Orchestration, Data Modeling
-- **Cloud Computing**: AWS (S3, Lambda, SageMaker), GCP (BigQuery, Vertex AI), Azure
-- **Business Intelligence**: Dashboard Development, KPI Tracking, Executive Reporting, Data Storytelling
-
----
-
-## 🎯 Core Competencies
-
-```python
-skills = {
-    "Data_Analysis": ["Python", "SQL", "R", "SAS", "Pandas", "NumPy"],
-    "Machine_Learning": ["Scikit-learn", "PyTorch", "TensorFlow", "Keras", "XGBoost"],
-    "Data_Engineering": ["ETL", "Apache Spark", "Hadoop", "Databricks", "Kafka", "Airflow"],
-    "Cloud_Platforms": ["AWS", "GCP", "Azure", "Snowflake", "Redshift"],
-    "Visualization": ["Tableau", "Power BI", "Looker", "Matplotlib", "Seaborn", "Plotly"],
-    "MLOps": ["Docker", "Kubernetes", "MLflow", "CI/CD", "Model Deployment"],
-    "Specializations": [
-        "Credit Risk Modeling",
-        "Customer Churn Prediction", 
-        "Financial Analytics",
-        "Predictive Analytics",
-        "Statistical Modeling",
-        "A/B Testing"
-    ]
-}
-```
-
----
-
-## 📫 Let's Connect!
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-karrisanjeevpreetam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karrisanjeevpreetam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-karri)
-[![Location](https://img.shields.io/badge/Location-Chicago,_IL-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)]()
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <a href="https://github.com/premiumzucchini/contribution-history">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=premiumzucchini&repo=contribution-history&theme=radical" />
+  </a>
+  <a href="https://github.com/premiumzucchini/premiumzucchini.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=premiumzucchini&repo=premiumzucchini.github.io&theme=radical" />
+  </a>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <a href="https://github.com/premiumzucchini/premiumzucchini">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=premiumzucchini&repo=premiumzucchini&theme=radical" />
+  </a>
+  <a href="https://github.com/premiumzucchini/data-pipeline-with-dbt-using-airflow-on-gcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=premiumzucchini&repo=data-pipeline-with-dbt-using-airflow-on-gcp&theme=radical" />
+  </a>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 20px;">
+  <a href="https://github.com/premiumzucchini/customer-churn-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=premiumzucchini&repo=customer-churn-prediction&theme=radical" />
+  </a>
+  <a href="https://github.com/premiumzucchini/face_recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=premiumzucchini&repo=face_recognition&theme=radical" />
+  </a>
+</div>
 
 </div>
 
----
+## 💼 Professional Journey
 
-## 🌟 Professional Interests
+<details>
+<summary>📈 Career Timeline</summary>
 
-- 🔬 **Research**: Exploring advanced ML techniques for financial risk assessment
-- 💡 **Innovation**: Building scalable data pipelines and real-time analytics systems
-- 📊 **Business Intelligence**: Creating actionable insights through data visualization
-- 🤝 **Collaboration**: Open to consulting opportunities and data science projects
-- 🎓 **Mentorship**: Helping aspiring data analysts navigate their career journey
+### 1. Data Analyst @ JPMorgan Chase & Co
+**Dec 2024 – Present**
 
----
+•	Engineered automated Python- and SQL-based pipelines aggregating transactional and client datasets, enabling real-time financial reporting, minimizing manual intervention by 25%, and improving overall data processing speed across multiple financial platforms.
+•	Developed and deployed credit risk prediction models using scikit-learn and PyTorch, improving default probability prediction accuracy by 18% and reducing portfolio-level loan losses through more precise credit assessments.
+•	Designed interactive Tableau dashboards to visualize portfolio performance across regions, allowing management to identify underperforming segments quickly and make informed adjustments that increased profitability by 10% within one quarter.
+•	Executed exploratory data analysis (EDA) and statistical inference to identify significant loan approval drivers, influencing revised eligibility policies that increased approval efficiency by 15% and enhanced fairness in decision-making.
+•	Integrated AWS Lambda and PySpark pipelines for automated data validation across data lakes, improving ingestion accuracy by 22% and enabling consistent financial reconciliations across multiple systems.
+•	Partnered with business and technology teams to define analytical workflows in Databricks, improving analytics throughput by 20% and reducing cross-departmental project delivery time through reproducible and modular pipelines.
+•	Performed A/B testing and regression analyses to evaluate pricing strategy impacts, revealing insights that optimized promotional campaigns and increased new customer acquisitions by 12% over 6 months.
 
-## 💻 What I'm Currently Working On
-
-- 🚀 Deploying production-ready ML models on AWS SageMaker
-- 📊 Building advanced financial analytics dashboards with real-time data
-- 🔄 Optimizing ETL pipelines for large-scale data processing
-- 🤖 Experimenting with LLMs and Generative AI for business applications
-- 📚 Contributing to open-source data science projects
+**Technologies:** Python, SQL, scikit-learn, PyTorch, Tableau, AWS Lambda, PySpark, Databricks
 
 ---
+
+### 2. Data Analyst @ Hexaware Technologies
+**Nov 2021 – Jul 2023**
+
+•	Designed and maintained end-to-end ETL pipelines using Python and SQL, ensuring data integrity across client environments and reducing manual cleansing efforts by 40% while accelerating reporting turnaround times.
+•	Created predictive churn models using logistic regression and decision trees, achieving 85% accuracy and enabling targeted retention programs that improved customer retention by 10% within 2 business quarters.
+•	Automated Power BI reporting systems delivering real-time operational KPIs, saving 25 weekly analyst hours and enhancing client transparency through consistent and validated data updates.
+•	Collaborated with engineering teams to integrate REST and SOAP APIs into Snowflake data warehouses, improving query efficiency by 30% and reducing reporting latency across enterprise-scale analytics environments.
+•	Conducted variance and trend analyses on multi-year financial datasets, identifying process inefficiencies that saved business units approximately $150K annually through data-driven operational cost optimization.
+•	Supported AWS-based deployment of analytics workflows using S3, Glue, and Lambda, enabling secure, scalable data access and improving processing reliability by 20% across regional client teams.
+•	Partnered with client analytics leads to design KPI frameworks and interactive Power BI dashboards, improving decision-making cadence and increasing quarterly business review adoption.
+
+**Technologies:** Python, SQL, Power BI, REST, SOAP, Snowflake, AWS S3, Glue, Lambda
+
+---
+
+### 3. Business Analyst @ Mphasis
+**Jul 2020 – Sep 2021**
+
+•	Gathered and analyzed financial technology business requirements, aligning data deliverables with client goals, accelerating project definition by 20%, and improving stakeholder satisfaction during early-stage solution design.
+•	Built automated SQL-driven reporting systems replacing manual spreadsheet workflows, improving reporting accuracy by 35% and reducing turnaround time from 3 days to one through process automation.
+•	Analyzed revenue datasets to uncover leakage and compliance anomalies, identifying remediation measures that eliminated recurring discrepancies and generated annual client savings exceeding $250K.
+•	Defined and implemented KPI frameworks that enhanced executive visibility into operational metrics, improving quarterly decision-making speed by 30% and strengthening alignment between performance goals and outcomes.
+•	Designed Tableau and Excel dashboards monitoring satisfaction and process metrics, shortening feedback resolution cycles by 25% and increasing transparency in post-engagement reviews.
+•	Coordinated with technical teams to translate analytical requirements into Python-based automation scripts, improving data preparation efficiency by 30% and minimizing dependency on manual processing.
+•	Authored workflow documentation and delivered training for 20+ analysts on governance standards, reducing onboarding duration by 40% and increasing audit readiness scores in compliance evaluations.
+
+**Technologies:** SQL, Tableau, Excel, Python
+
+---
+
+</details>
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-### ⚡ "Turning Data into Actionable Insights, One Model at a Time" ⚡
+<h3>💬 Ready to bring ideas to life? Let's chat!</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=premiumzucchini&color=blueviolet&style=for-the-badge)
-
-**Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.**
+<a href="mailto:karrisanjeevpreetam@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+  <a href="LinkedIn">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+  <a href="https://github.com/premiumzucchini">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+### 🐍 Watch my commits get eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/premiumzucchini/premiumzucchini/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/premiumzucchini/premiumzucchini/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/premiumzucchini/premiumzucchini/output/github-contribution-grid-snake.svg">
+</picture>
+
+<h3>💭 Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
