@@ -7,11 +7,6 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
                             O F   D A T A   A N A L Y T I C S   &   M L
 -->
-
-<div align="left">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=premiumzucchini.premiumzucchini" />
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=300&section=header&text=SANJEEV%20PREETAM%20KARRI&fontSize=60&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20ML%20ENGINEER%20◉%20CLOUD%20ANALYTICS%20◉&descSize=18&descAlign=50&descAlignY=75" />
@@ -652,3 +647,4 @@ _Milwaukee, WI • Expected: May 2025_
 **🌟 Ready to collaborate on data analytics and ML projects? Let's connect and innovate! 🚀**
 
 </div>
+
