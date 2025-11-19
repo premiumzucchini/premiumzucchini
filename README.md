@@ -108,7 +108,7 @@ class DataAnalyst implements Innovator {
 </td>
 <td width="50%" valign="top">
 
-### 📊 **IMPACT METRICS**
+###  **IMPACT METRICS**
 
 ```python
 achievement_matrix = {
@@ -145,7 +145,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 <!-- Elite Custom Analytics -->
 <div align="center">
 
-## 📊 **DEVELOPMENT IMPACT METRICS**
+##  **DEVELOPMENT IMPACT METRICS**
 
 <table align="center" style="border: none;">
 <tr>
@@ -164,7 +164,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 </td>
 <td align="center" style="border: none;">
 
-### 🛠️ **TECHNOLOGY MASTERY**
+###  **TECHNOLOGY MASTERY**
 
 <table>
 <tr><td>🐍</td><td><b>Python/SQL</b></td><td><img src="https://img.shields.io/badge/Expert-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
@@ -180,7 +180,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 
 <br/>
 
-**🏆 ACHIEVEMENTS:**
+** ACHIEVEMENTS:**
 <img src="https://img.shields.io/badge/🎓_MS_IT_&_Management-success?style=for-the-badge&labelColor=2C3E50"/>
 <img src="https://img.shields.io/badge/📜_Business_Analytics_Cert-blue?style=for-the-badge&labelColor=2C3E50"/>
 <img src="https://img.shields.io/badge/🚀_4+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50"/>
@@ -190,7 +190,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 <!-- Elite Experience Section -->
 <div align="center">
 
-## 💼 **PROFESSIONAL EXCELLENCE TIMELINE**
+##  **PROFESSIONAL EXCELLENCE TIMELINE**
 
 </div>
 
@@ -198,7 +198,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 **DATA ANALYST**
+###  **DATA ANALYST**
 
 **`JPMorgan Chase & Co • USA • Dec 2024 – Present`**
 
@@ -225,7 +225,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 </td>
 <td width="50%" valign="top">
 
-### 💼 **DATA ANALYST**
+###  **DATA ANALYST**
 
 **`Hexaware Technologies • India • Nov 2021 – Jul 2023`**
 
@@ -254,7 +254,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 <tr>
 <td width="50%" valign="top">
 
-### 📈 **BUSINESS ANALYST**
+###  **BUSINESS ANALYST**
 
 **`Mphasis • India • Jul 2020 – Sep 2021`**
 
@@ -298,7 +298,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 
 <div align="center">
 
-### 🔄 **DATA PIPELINE WITH DBT ON GCP**
+###  **DATA PIPELINE WITH DBT ON GCP**
 
 **Enterprise ETL Architecture**
 
@@ -316,14 +316,14 @@ Data Processing: BigQuery • Cloud Storage
 Pipeline: ETL • Data Modeling
 ```
 
-**📊 MEASURABLE OUTCOMES**
+** MEASURABLE OUTCOMES**
 
 - ⚡ **Automated** data transformation workflows
 - 🔄 **Real-time** analytics processing capabilities
 - 📈 **Scalable** data infrastructure on GCP
 - 🎯 **Reduced** manual data processing time
 
-**🎯 INNOVATION HIGHLIGHTS**
+** INNOVATION HIGHLIGHTS**
 
 - Engineered end-to-end ETL pipelines with Airflow orchestration
 - Implemented DBT models for data transformation
@@ -353,14 +353,14 @@ Techniques: SMOTE • Feature Engineering
 Deployment: Modern ML Frameworks
 ```
 
-**📊 MEASURABLE OUTCOMES**
+** MEASURABLE OUTCOMES**
 
 - 🎯 **85% accuracy** in churn prediction
 - 📈 **10% improvement** in customer retention
 - 🔍 **Identified** key churn risk factors
 - 💡 **Enabled** targeted retention programs
 
-**🎯 INNOVATION HIGHLIGHTS**
+** INNOVATION HIGHLIGHTS**
 
 - Developed predictive models using supervised learning
 - Applied SMOTE for handling imbalanced datasets
@@ -392,14 +392,14 @@ Techniques: Transfer Learning • Feature Extraction
 Design Patterns: Software Engineering Best Practices
 ```
 
-**📊 MEASURABLE OUTCOMES**
+** MEASURABLE OUTCOMES**
 
 - 🤖 **Real-time** facial recognition capability
 - 🔍 **Accurate** feature extraction using CNNs
 - ⚡ **Optimized** model for fast inference
 - 📚 **MIT Licensed** open-source contribution
 
-**🎯 INNOVATION HIGHLIGHTS**
+** INNOVATION HIGHLIGHTS**
 
 - Built end-to-end face recognition pipeline
 - Applied transfer learning with pre-trained models
@@ -419,7 +419,7 @@ Design Patterns: Software Engineering Best Practices
 
 </div>
 
-**🛠️ TECHNOLOGY STACK**
+** TECHNOLOGY STACK**
 
 ```yaml
 Data Analysis: SQL • Python • Jupyter Notebook
@@ -429,14 +429,14 @@ Reporting: Executive KPI Tracking
 License: MIT Open Source
 ```
 
-**📊 MEASURABLE OUTCOMES**
+** MEASURABLE OUTCOMES**
 
 - 📈 **Identified** key customer behavior patterns
 - 💼 **Created** executive-level reporting dashboards
 - 🔍 **Performed** in-depth exploratory data analysis
 - ⏱️ **Enabled** real-time KPI tracking
 
-**🎯 INNOVATION HIGHLIGHTS**
+** INNOVATION HIGHLIGHTS**
 
 - Analyzed customer trends using SQL and Python
 - Designed interactive PowerBI dashboards
@@ -450,7 +450,7 @@ License: MIT Open Source
 
 <div align="center">
 
-### 📊 **DASHBOARDS USING TABLEAU & POWERBI**
+###  **DASHBOARDS USING TABLEAU & POWERBI**
 
 **Business Intelligence Visualization**
 
@@ -468,14 +468,14 @@ Visualization: Interactive Charts • KPI Tracking
 Framework: Modern Business Intelligence
 ```
 
-**📊 MEASURABLE OUTCOMES**
+** MEASURABLE OUTCOMES**
 
 - 📊 **Developed** interactive BI dashboards
 - ⏱️ **Saved** 25+ weekly analyst hours
 - 📈 **Enabled** data-driven decision making
 - 🎯 **Created** comprehensive KPI visualizations
 
-**🎯 INNOVATION HIGHLIGHTS**
+** INNOVATION HIGHLIGHTS**
 
 - Designed compelling data visualizations
 - Implemented advanced DAX calculations
@@ -492,7 +492,7 @@ Framework: Modern Business Intelligence
 <!-- Elite Tech Stack -->
 <div align="center">
 
-## 🛠️ **TECHNOLOGY ARSENAL**
+##  **TECHNOLOGY ARSENAL**
 
 </div>
 
@@ -500,7 +500,7 @@ Framework: Modern Business Intelligence
 <tr>
 <td width="33%" valign="top">
 
-### **🤖 ML & AI MASTERY**
+### ** ML & AI MASTERY**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
@@ -520,7 +520,7 @@ Framework: Modern Business Intelligence
 </td>
 <td width="33%" valign="top">
 
-### **☁️ CLOUD & DATA ENGINEERING**
+### ** CLOUD & DATA ENGINEERING**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" /><br/>
@@ -540,7 +540,7 @@ Framework: Modern Business Intelligence
 </td>
 <td width="33%" valign="top">
 
-### **📊 DATA & VISUALIZATION**
+### ** DATA & VISUALIZATION**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,r&theme=dark" /><br/>
@@ -564,7 +564,7 @@ Framework: Modern Business Intelligence
 <!-- Academic Excellence -->
 <div align="center">
 
-## 🎓 **ACADEMIC EXCELLENCE & CERTIFICATIONS**
+##  **ACADEMIC EXCELLENCE & CERTIFICATIONS**
 
 </div>
 
@@ -572,7 +572,7 @@ Framework: Modern Business Intelligence
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🏆 **UNIVERSITY OF WISCONSIN-MILWAUKEE**
+###  **UNIVERSITY OF WISCONSIN-MILWAUKEE**
 
 **Master of Science in Information Technology & Management**  
 _Milwaukee, WI • Expected: May 2025_
@@ -610,7 +610,7 @@ _Milwaukee, WI • Expected: May 2025_
 <!-- Activity Graph -->
 <div align="center">
 
-## 📈 **DEVELOPMENT ACTIVITY MATRIX**
+##  **DEVELOPMENT ACTIVITY MATRIX**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=premiumzucchini&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
@@ -621,7 +621,7 @@ _Milwaukee, WI • Expected: May 2025_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=twinkling" />
 
-### 🤝 **LET'S BUILD DATA-DRIVEN SOLUTIONS TOGETHER**
+###  **LET'S BUILD DATA-DRIVEN SOLUTIONS TOGETHER**
 
 <table align="center">
 <tr>
@@ -644,9 +644,9 @@ _Milwaukee, WI • Expected: May 2025_
 
 <br/>
 
-**🌟 Ready to collaborate on data analytics and ML projects? Let's connect and innovate! 🚀**
 
 </div>
+
 
 
 
