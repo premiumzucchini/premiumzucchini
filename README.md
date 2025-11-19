@@ -32,7 +32,7 @@ drwxr-xr-x  425+ commits driving business intelligence
 
 ┌─[sanjeev@analytics-lab]─[~/current-mission]
 └──╼ $ cat vision.txt
-Building scalable data analytics and ML systems that drive business value 🚀
+Building scalable data analytics and ML systems that drive business value 
 ```
 
 <br/>
@@ -71,7 +71,7 @@ Building scalable data analytics and ML systems that drive business value 🚀
 <!-- Elite About Section -->
 <div align="center">
 
-## 🎯 **DATA ANALYTICS EXPERTISE**
+##  **DATA ANALYTICS EXPERTISE**
 
 </div>
 
@@ -79,7 +79,7 @@ Building scalable data analytics and ML systems that drive business value 🚀
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 **ANALYTICS MASTERY**
+###  **ANALYTICS MASTERY**
 
 ```typescript
 class DataAnalyst implements Innovator {
@@ -288,7 +288,7 @@ print(f"Status: {achievement_matrix['hexaware_technologies']['churn_accuracy']} 
 <!-- Elite Project Showcase -->
 <div align="center">
 
-## 🔥 **FEATURED PROJECTS PORTFOLIO**
+##  **FEATURED PROJECTS PORTFOLIO**
 
 </div>
 
@@ -492,7 +492,7 @@ Framework: Modern Business Intelligence
 <!-- Elite Tech Stack -->
 <div align="center">
 
-## 🛠️ **ELITE TECHNOLOGY ARSENAL**
+## 🛠️ ** TECHNOLOGY ARSENAL**
 
 </div>
 
@@ -647,4 +647,5 @@ _Milwaukee, WI • Expected: May 2025_
 **🌟 Ready to collaborate on data analytics and ML projects? Let's connect and innovate! 🚀**
 
 </div>
+
 
