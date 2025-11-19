@@ -492,7 +492,7 @@ Framework: Modern Business Intelligence
 <!-- Elite Tech Stack -->
 <div align="center">
 
-## 🛠️ ** TECHNOLOGY ARSENAL**
+## 🛠️ **TECHNOLOGY ARSENAL**
 
 </div>
 
@@ -647,5 +647,6 @@ _Milwaukee, WI • Expected: May 2025_
 **🌟 Ready to collaborate on data analytics and ML projects? Let's connect and innovate! 🚀**
 
 </div>
+
 
 
