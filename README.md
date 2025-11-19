@@ -500,7 +500,7 @@ Framework: Modern Business Intelligence
 <tr>
 <td width="33%" valign="top">
 
-### ** ML & AI MASTERY**
+### **ML & AI MASTERY**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" /><br/>
@@ -520,7 +520,7 @@ Framework: Modern Business Intelligence
 </td>
 <td width="33%" valign="top">
 
-### ** CLOUD & DATA ENGINEERING**
+### **CLOUD & DATA ENGINEERING**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark" /><br/>
@@ -540,7 +540,7 @@ Framework: Modern Business Intelligence
 </td>
 <td width="33%" valign="top">
 
-### ** DATA & VISUALIZATION**
+### **DATA & VISUALIZATION**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,r&theme=dark" /><br/>
@@ -646,6 +646,7 @@ _Milwaukee, WI • Expected: May 2025_
 
 
 </div>
+
 
 
 
